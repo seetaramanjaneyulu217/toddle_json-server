@@ -1,0 +1,43 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "color": "#a7f0f9",
+      "boardName": "Earth Changes and Journeys",
+      "posts": [
+        {
+          "id": 1,
+          "subject": "Galapagos Islands, Ecuador",
+          "image": "../assets/galapagos_island.jpeg",
+          "description": "I am an Island",
+          "isLiked": true
+        },
+        {
+          "id": 2,
+          "subject": "Lake Tekapo, NewZealand",
+          "image": "../assets/lake_tekapo.jpeg",
+          "description": "I am a Lake",
+          "isLiked": false
+        },
+        {
+          "id": 3,
+          "subject": "Seeta Ram",
+          "image": "",
+          "description": "Hellooo",
+          "isLiked": false
+        }
+      ]
+    },
+    {
+      "boardName": "Eating and Right",
+      "color": "#c5c5fc",
+      "id": 2
+    },
+    {
+      "boardName": "Nature is Mother",
+      "color": "#ffaec0",
+      "id": 3
+    }
+  ],
+  "bookmarks": []
+}
