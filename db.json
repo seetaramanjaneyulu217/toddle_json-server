@@ -10,32 +10,46 @@
           "subject": "Galapagos Islands, Ecuador",
           "image": "../assets/galapagos_island.jpeg",
           "description": "I am an Island",
-          "isLiked": true
+          "isLiked": true,
+          "isBookMarked": false
         },
         {
           "id": 2,
           "subject": "Lake Tekapo, NewZealand",
           "image": "../assets/lake_tekapo.jpeg",
           "description": "I am a Lake",
-          "isLiked": false
+          "isLiked": false,
+          "isBookMarked": false
         },
         {
           "id": 3,
           "subject": "Seeta Ram",
           "image": "",
           "description": "Hellooo",
-          "isLiked": false
+          "isLiked": false,
+          "isBookMarked": false
         }
       ]
     },
     {
-      "boardName": "Eating and Right",
-      "color": "#c5c5fc",
+      "boardName": "Eating Right",
+      "posts": [
+        {
+          "id": 1,
+          "subject": "Dinesh tindipothu",
+          "image": "",
+          "description": "Proteins",
+          "isLiked": false,
+          "isBookMarked": false
+        }
+      ],
+      "color": "#ffaec0",
       "id": 2
     },
     {
-      "boardName": "Nature is Mother",
-      "color": "#ffaec0",
+      "boardName": "Nature is mother",
+      "posts": [],
+      "color": "#ffcc66",
       "id": 3
     }
   ],
