@@ -8,41 +8,26 @@
         {
           "id": 1,
           "subject": "Galapagos Islands, Ecuador",
-          "image": "../../public/images/galapagos_island.jpeg",
-          "description": "I am an Island",
+          "description": "The Galápagos Islands is a volcanic archipelago in the Pacific Ocean. It's considered one of the world's foremost destinations for wildlife-viewing. A province of Ecuador, it lies about 1,000km off its coast. Its isolated terrain shelters a diversity of plant and animal species, many found nowhere else. Charles Darwin visited in 1835, and his observation of Galápagos' species later inspired his theory of evolution. ",
+          "date": "August 20",
           "isLiked": true,
-          "isBookMarked": false
+          "isBookMarked": false,
+          "image": "http://res.cloudinary.com/dipdggpwh/image/upload/v1692522776/u59toovtngfcac9i92dj.jpg"
         },
         {
           "id": 2,
-          "subject": "Lake Tekapo, NewZealand",
-          "image": "../../public/images/lake_tekapo.jpeg",
-          "description": "I am a Lake",
+          "subject": "Lake Tekapo, New Zealand",
+          "description": "While purple, pink, and blue-hued lupin flowers may not be native to New Zealand (they hail from North America), they really do seem to bloom most vibrantly on the Oceanian nation’s South Island. At Lake Tekapo, in particular, the flowers juxtapose against the backdrop of the crystal clear water to create one of the country’s most stunning vistas.",
+          "date": "August 20",
           "isLiked": false,
-          "isBookMarked": false
-        },
-        {
-          "id": 3,
-          "subject": "Seeta Ram",
-          "image": "",
-          "description": "Hellooo",
-          "isLiked": false,
-          "isBookMarked": false
+          "isBookMarked": false,
+          "image": "http://res.cloudinary.com/dipdggpwh/image/upload/v1692522852/gflkbiqll2pbj0nhn0vx.jpg"
         }
       ]
     },
     {
       "boardName": "Eating Right",
-      "posts": [
-        {
-          "id": 1,
-          "subject": "Dinesh tindipothu",
-          "image": "",
-          "description": "Proteins",
-          "isLiked": false,
-          "isBookMarked": false
-        }
-      ],
+      "posts": [],
       "color": "#ffaec0",
       "id": 2
     },
