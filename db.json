@@ -8,7 +8,7 @@
         {
           "id": 1,
           "subject": "Galapagos Islands, Ecuador",
-          "image": "../assets/galapagos_island.jpeg",
+          "image": "../../public/images/galapagos_island.jpeg",
           "description": "I am an Island",
           "isLiked": true,
           "isBookMarked": false
@@ -16,7 +16,7 @@
         {
           "id": 2,
           "subject": "Lake Tekapo, NewZealand",
-          "image": "../assets/lake_tekapo.jpeg",
+          "image": "../../public/images/lake_tekapo.jpeg",
           "description": "I am a Lake",
           "isLiked": false,
           "isBookMarked": false
